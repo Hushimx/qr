@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(213, 225, 239);
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+img {
+    width: 94%;
+    border-radius: 20px;
+}
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: 356px;
+    height: 515px;     
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    padding: 9px;
+}
+h3{
+    font-size: 23px;
+    width: 88%;
+    height: 30px;
+    font-weight: 600;
+}
+p {
+    width: 77%;
+    color: #92959a;
+}
